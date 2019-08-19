@@ -1,0 +1,3 @@
+[submodule "Criptografia"]
+	path = Criptografia
+	url = https://github.com/ismaelcarvalhorosa/Criptografia.git
